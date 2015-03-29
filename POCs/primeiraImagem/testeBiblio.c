@@ -23,7 +23,11 @@ int main (void) {
 	bool renderizar = true;
     bool movimento = false;
     int diferenca = 0;
+<<<<<<< .merge_file_L6OrUc
     int sensibilidade = 4;
+=======
+    int sensibilidade = 30;
+>>>>>>> .merge_file_D5CzIe
 	int range = 70;
 	const int FPS = 60;
         
